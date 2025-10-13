@@ -1,0 +1,1 @@
+version control lets you see past edits or versions of a file, and lets you go back and forth or recover past versions if needed.
